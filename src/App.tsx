@@ -1,5 +1,4 @@
 import { createSignal, For, onMount, type Ref, Show } from "solid-js";
-import "./App.css";
 
 interface IComment {
 	username: string;
